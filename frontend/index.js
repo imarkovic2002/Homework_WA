@@ -12,6 +12,7 @@ function dohvatiArtikle(){
     })
     .catch((err) => {
         console.log("Error:", err);
+        
     });
 }
 dohvatiArtikle();
